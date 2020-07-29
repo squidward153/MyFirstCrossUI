@@ -1,2 +1,10 @@
-# MyFirstCrossUI
-This is a codeless programming project created by CrossUI GitHub
+## MyFirstCrossUI
+Web app url : https://squidward153.github.io/MyFirstCrossUI
+
+This project was created by CrossUI No-Code App Builder: https://crossui.com/RADGithub
+
+Based on template: https://linb.github.io/CrossUI_Assets/assets/projects/Simple/xui_project_tpl_Empty
+
+Click [here](https://crossui.com/RADGithub/#!from=github&owner=squidward153&repo=MyFirstCrossUI) to edit this web app in CrossUI No-Code App Builder
+
+<i>Powered by [CrossUI](https://crossui.com)</i>
