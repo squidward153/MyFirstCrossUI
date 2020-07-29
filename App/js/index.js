@@ -19,9 +19,26 @@ xui.Class('App', 'xui.Module',{
                 .setCaption("9+10=21")
             );
             
+            append(
+                xui.create("xui.UI.Button")
+                .setHost(host,"didweird")
+                .setDirtyMark(false)
+                .setLeft("16.761904761904763em")
+                .setTop("24.38095238095238em")
+                .setWidth("17.37142857142857em")
+                .setHeight("11.885714285714286em")
+                .setCaption("Button")
+                .onClick("_firstFunk")
+            );
+            
             return children;
             // ]]Code created by CrossUI RAD Studio
         },
+        
+        _firstFunk:function(){
+            alert("No, 9 + 10 = 19!!");
+        },
+        
         customAppend : function(parent, subId, left, top){
             return false;
         }
