@@ -27,7 +27,7 @@ xui.Class('App', 'xui.Module',{
                 .setTop("24.38095238095238em")
                 .setWidth("17.37142857142857em")
                 .setHeight("11.885714285714286em")
-                .setCaption("Button")
+                .setCaption("Answer")
                 .onClick("_firstFunk")
                 .setCustomStyle({
                     "KEY":{
