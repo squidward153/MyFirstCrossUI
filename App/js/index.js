@@ -29,6 +29,12 @@ xui.Class('App', 'xui.Module',{
                 .setHeight("11.885714285714286em")
                 .setCaption("Button")
                 .onClick("_firstFunk")
+                .setCustomStyle({
+                    "KEY":{
+                        "color":"#00FFFF",
+                        "background-color":"#40E0D0"
+                    }
+                })
             );
             
             return children;
